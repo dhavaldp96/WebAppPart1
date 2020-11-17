@@ -6,8 +6,9 @@
 
 ##Postman Screenshot
 
-![postman request output](screenshots/postman.png)
+![postman request output]()
 
 ##SQL Data Screenshot
 
 ![pycharm data query](screenshots/query.png)
+
