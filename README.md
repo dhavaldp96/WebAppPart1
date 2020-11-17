@@ -6,7 +6,7 @@
 
 ##Postman Screenshot
 
-![postman request output]()
+![postman request output](screenshots/postman.png)
 
 ##SQL Data Screenshot
 
